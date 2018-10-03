@@ -32,5 +32,6 @@ dependencies {
         androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'*/
 
     implementation project(':mylibrary')
-    //implementation 'com.github.Gratus08:Swipebuttonptest:1.0.1'
+    //implementation 'com.github.anupamchugh:VerticalViewPager:1.0'
+    implementation 'com.github.Gratus08:AGIKButtonSwipe:1.0.1'
 }
